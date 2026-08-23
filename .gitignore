@@ -1,0 +1,5 @@
+# Local secrets & data
+.env
+work/
+*.ipynb_checkpoints/
+__pycache__/
